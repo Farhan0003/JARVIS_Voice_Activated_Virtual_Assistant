@@ -1,0 +1,30 @@
+{
+  "status": "ok",
+  "totalResults": 37,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Guide"
+      },
+      "author": "Philip Michaels, Mark Spoonauer",
+      "title": "Apple 'Glowtime' event live blog ",
+      "description": "All the latest Apple products as they're announced",
+      "url": "https://www.tomsguide.com/phones/live/apple-glowtime-event-iphone-16",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Giq4anshxqGG3Rge2ApzKN-1200-80.jpg",
+      "publishedAt": "2024-09-09T07:34:22Z",
+      "content": "2024-09-09T08:59:44.228ZA new Apple store on Apple event day\r\n(Image credit: Shutterstock)\r\nIf you happen to be at the Mall of Scandinavia in Stockholm, Sweden today, you'll notice Apple's opening a … [+14276 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CBS Sports"
+      },
+      "author": "",
+      "title": "Overreactions after Week 1 of the NFL season: Kirk Cousins benched already? Cowboys made mistake paying Dak? - CBS Sports",
+      "description": "Overreactions and reality checks for the Week 1 Sunday slate",
+      "url": "https://www.cbssports.com/nfl/news/overreactions-after-week-1-of-the-nfl-season-kirk-cousins-benched-already-cowboys-made-mistake-paying-dak/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/09/09/89477968-350b-4857-81ac-252f2ed23668/thumbnail/1200x675/3121093626a7e9ed29a9471dd65559b4/kirk-cousins.jpg",
+      "publishedAt": "2024-09-09T06:39:00Z",
+      "content": "The first Sunday  
+      },
